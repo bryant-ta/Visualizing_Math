@@ -1,11 +1,3 @@
 ﻿using UnityEngine;
 
-public class GraphFunction : MonoBehaviour
-{
-
-
-    void Awake()
-    {
-
-    }
-}
+public delegate float GraphFunction(float x, float z, float t);

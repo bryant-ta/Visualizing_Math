@@ -154,7 +154,7 @@ Light:
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 2
+    m_Type: 0
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1
@@ -243,6 +243,7 @@ MonoBehaviour:
   pointPrefab: {fileID: 1502914619670013626, guid: d4cb2ceb375f1684787ba20bfe6eb4bd,
     type: 3}
   resolution: 70
+  function: 0
 --- !u!4 &734085893
 Transform:
   m_ObjectHideFlags: 0
