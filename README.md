@@ -2,7 +2,11 @@
 
 3D matrix visualization of mathematical functions
 
+#####Sine Wave
 ![demo-1]
+![demo-2]
+![demo-3]
+![demo-4]
 
 ### Prerequisites
 
@@ -33,3 +37,6 @@ Distributed under the MIT License.
 
 <!-- Content -->
 [demo-1]: /0_Demo/3d_sine_wave.gif
+[demo-2]: /0_Demo/3d_sine_wave_2.gif
+[demo-3]: /0_Demo/3d_sine_wave_3.gif
+[demo-4]: /0_Demo/3d_sine_wave_4.gif
