@@ -4,11 +4,11 @@
 
 ##### Sine Wave
 ![demo-1]
-####Sine Wave
+##### Overlayed Sine Wave
 ![demo-2]
-####Sine Wave
+##### Deformed Sphere
 ![demo-3]
-####Sine Wave
+##### Deformed Torus
 ![demo-4]
 
 ### Prerequisites
