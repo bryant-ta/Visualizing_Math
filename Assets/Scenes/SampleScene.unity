@@ -242,8 +242,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pointPrefab: {fileID: 1502914619670013626, guid: d4cb2ceb375f1684787ba20bfe6eb4bd,
     type: 3}
-  resolution: 70
-  function: 0
+  resolution: 100
+  function: 7
 --- !u!4 &734085893
 Transform:
   m_ObjectHideFlags: 0
