@@ -2,10 +2,13 @@
 
 3D matrix visualization of mathematical functions
 
-#####Sine Wave
+##### Sine Wave
 ![demo-1]
+####Sine Wave
 ![demo-2]
+####Sine Wave
 ![demo-3]
+####Sine Wave
 ![demo-4]
 
 ### Prerequisites
